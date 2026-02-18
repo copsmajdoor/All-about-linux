@@ -1,0 +1,37 @@
+What is Linux?
+Linux is an open-source operating system.
+An operating system (OS) is the main software that:
+Talks to hardware (CPU, memory, disk)
+Runs applications
+Manages files and processes
+"Linux is an operating system that manages computer hardware and software"
+
+🐚       What is a Shell?
+A shell is a program that lets users communicate with the operating system using commands.
+When you type a command like:ls
+The shell:
+Reads your command
+Sends it to the system
+Shows the output
+
+Common shells:
+Bash
+Zsh
+PowerShell
+👉 Simple definition:
+Shell is a command-line interface that allows users to interact with Linux.
+
+🧠     What is a Kernel?
+The kernel is the core part of the operating system.
+It:
+Manages CPU
+Manages memory
+Controls hardware
+Handles system processes
+You never directly talk to the kernel.
+The shell sends commands to the kernel.
+👉 Simple definition:
+Kernel is the core of Linux that controls hardware and system resources.
+📌 Easy Relationship Diagram
+User → Shell → Kernel → Hardware
+
