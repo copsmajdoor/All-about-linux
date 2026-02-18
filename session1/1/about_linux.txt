@@ -1,3 +1,4 @@
+
 What is Linux?
 Linux is an open-source operating system.
 An operating system (OS) is the main software that:
@@ -34,4 +35,48 @@ The shell sends commands to the kernel.
 Kernel is the core of Linux that controls hardware and system resources.
 📌 Easy Relationship Diagram
 User → Shell → Kernel → Hardware
-
+  
+----15 essential Linux commands---
+1. ls
+List files and folders in the current directory.
+Example: ls -l shows detailed info.
+2. cd
+Change directory.
+Example: cd /home moves to home folder.
+3. pwd
+Print working directory — shows your current folder path.
+4. mkdir
+Make new directory.
+Example: mkdir myfolder
+5. rm
+Remove files or directories.
+Example: rm file.txt deletes a file.
+6. cp
+Copy files or directories.
+Example: cp file1.txt file2.txt
+7. mv
+Move or rename files or directories.
+Example: mv oldname.txt newname.txt
+8. cat
+View file contents.
+Example: cat file.txt
+9. touch
+Create an empty file or update file timestamp.
+Example: touch newfile.txt
+10. grep
+Search text inside files.
+Example: grep "hello" file.txt
+11. find
+Search files and folders by name.
+Example: find /home -name "*.txt"
+12. chmod
+Change file permissions.
+Example: chmod 755 script.sh
+13. chown
+Change file owner.
+Example: chown user file.txt
+14. ps
+List running processes.
+Example: ps aux
+15. top
+Interactive process viewer showing CPU and memory usage.
